@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GqlEntityGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Code\\temp\\schema\\sdl.graphql C:\\Code\\temp\\graph-out\\CoreDataEntities"
+    }
+  }
+}
